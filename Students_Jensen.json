@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "frr",
+        "age": 34,
+        "grade": "g",
+        "subjects": "s, t"
+    },
+    {
+        "id": 2,
+        "name": "ff",
+        "age": 32,
+        "grade": "g",
+        "subjects": "g, r"
+    }
+]
